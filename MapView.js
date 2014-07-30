@@ -41,8 +41,8 @@
  * @module
  */
 var _globalMapViewId = 1;
-define(function(require, exports, module) {
-    'use strict';
+// define(function(require, exports, module) {
+    // 'use strict';
 
     // import dependencies
     var Surface = require('famous/core/Surface');
@@ -489,4 +489,4 @@ define(function(require, exports, module) {
     };
 
     module.exports = MapView;
-});
+// });

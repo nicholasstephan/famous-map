@@ -31,7 +31,7 @@
  *
  * @module
  */
-define(function(require, exports, module) {
+// define(function(require, exports, module) {
     'use strict';
 
     // import dependencies
@@ -190,4 +190,4 @@ define(function(require, exports, module) {
     };
 
     module.exports = MapTransition;
-});
+// });
